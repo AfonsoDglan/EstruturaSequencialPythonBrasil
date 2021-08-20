@@ -1,0 +1,1 @@
+todos esses exercicios podem ser encontrados em: https://wiki.python.org.br/EstruturaSequencial
